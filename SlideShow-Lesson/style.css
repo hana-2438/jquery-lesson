@@ -1,0 +1,10 @@
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+
+/* :rootはcss上で使用できる変数 */
+:root {
+  --swiper-navigation-color: #ffffff;
+  --swiper-pagination-color: #ffffff;
+}
